@@ -6,4 +6,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka 
   instance:
     hostname: localhost 
-message: Keep moving
+payment:
+  endpoint: http://PAYMENTSERVICE/payment/doPayment
