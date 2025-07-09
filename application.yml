@@ -9,4 +9,6 @@ eureka:
 payment:
   endpoint: http://PAYMENTSERVICE/payment/doPayment
 logging:
-   file: C:\Users\Sakthi\Desktop\logs\microservice.log
+  file:
+    name: C:/Users/Sakthi/Desktop/logs/microservice.log
+  
