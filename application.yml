@@ -7,8 +7,6 @@ eureka:
   instance:
     hostname: localhost 
 payment:
-  endpoint: http://PAYMENTSERVICE/payment/doPayment
-logging:
-  file:
-    name: C:/Users/Sakthi/Desktop/logs/microservice.log
+  endpoint: http://PAYMENTSERVICE/payment/createPayment
+
   
