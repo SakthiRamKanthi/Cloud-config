@@ -1,6 +1,6 @@
-message: Hello Buddy from git hub repo!
+message: welcome to jurassic world
 my:
- greeting: Hello Buddy! way to go 
- app: MyBuddy
+ greeting: Welcome
+ app: MyCalculator
  description: Testing config of ${my.app}
   
