@@ -1,6 +1,6 @@
-message: welcome to jurassic world
+message: Any message
 my:
- greeting: Welcome
- app: MyCalculator
+ greeting: any greeing
+ app: any app
  description: Testing config of ${my.app}
   
