@@ -1,6 +1,2 @@
-message: Any message
-my:
- greeting: any greeing
- app: any app
- description: Testing config of ${my.app}
-  
+payment:
+  endpoint: http://PAYMENTSERVICE/payment/createPayment
