@@ -1,3 +1,6 @@
 message: Hello Buddy from git hub repo!
-
+my:
+ greeting: Hello Buddy
+ app: MyBuddy
+ description: Testing config of ${my.app}
   
